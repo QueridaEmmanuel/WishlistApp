@@ -21,17 +21,22 @@ The following additional features are implemented:
 
  List any additional features you've implemented to improve the app's functionality!
 Video Walkthrough
-Here's a walkthrough of implemented user stories:
 
 <div>
     <a href="https://www.loom.com/share/f19330dd32d5477ab9c67611fa51ac4a">
-     
     </a>
     <a href="https://www.loom.com/share/f19330dd32d5477ab9c67611fa51ac4a">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f19330dd32d5477ab9c67611fa51ac4a-8246d8456ba6590a-full-play.gif">
     </a>
   </div>
-<!-- Recommended tools: [Kap](https://getkap.co/) for macOS [ScreenToGif](https://www.screentogif.com/) for Windows [peek](https://github.com/phw/peek) for Linux. -->
+
+
+
+
+
+
+
+
 Notes
 Describe any challenges encountered while building the app. For example:
 
